@@ -24,7 +24,7 @@
   "communities" : {
     "description": "These are communities of humans formed",
     "list" : {
-      "TinyML" : {},
+      "TinyML" : {}
       }
   },
   "modules" : {
