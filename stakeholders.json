@@ -1,61 +1,61 @@
 {
   "frameworks" : {
     "description": "These are the scaffolds of creating a ML model",
-    "list" : {
-      "Tensorflow" : {},
-      "Keras" : {},
-      "PyTorch" : {},
-      "ConvNetJS" : {},
-      "Lasagne" : {},
-      "Microsoft Cognitive Toolkit" : {}
-    }
+    "list" : [
+      {"name" : "Tensorflow" },
+      {"name" : "Keras" },
+      {"name" : "PyTorch" },
+      {"name" : "ConvNetJS" },
+      {"name" : "Lasagne" },
+      {"name" : "Microsoft Cognitive Toolkit"}
+    ]
   },
   "preprocessor" : {
     "description": "These are used to preprocess and/or compile a formed model.",
-    "list" : {
-      "STM32 CubeMX.AI" : {},
-      "XLA" : {},
-      "TFLite" : {},
-      "TensorRT" : {},
-      "DeePHi" : {},
-      "NCSDK" : {}
+    "list" : [
+      {"name" : "STM32 CubeMX.AI"},
+      {"name" : "XLA"},
+      {"name" : "TFLite"},
+      {"name" : "TensorRT"},
+      {"name" : "DeePHi"},
+      {"name" : "NCSDK"}
     }
   },
   "communities" : {
     "description": "These are communities of humans formed",
-    "list" : {
-      "TinyML" : {}
-      }
+    "list" : [
+      {"name" : "TinyML"}
+      ]
   },
   "modules" : {
     "description": "These are modules that have the hardware to run, communicate and meybe sense.",
-    "list" : {
-      "UP" : {},
-      "Google Coral" : {},
-      "Nvidia" : {},
-      "Sparkfun Electronics" : {},
-      "96boards" : {}
-    }
+    "list" : [
+      {"name" : "UP"},
+      {"name" : "Google Coral"},
+      {"name" : "Nvidia"},
+      {"name" : "Sparkfun Electronics"},
+      {"name" : "96boards"}
+    ]
   },
   "ASICs" : {
   "description": "These are chips manufacturers that are tailored somewhat for ML applications",
-  "list" : {
-      "Wave Computing" : {},
-      "Google Edge TPU" : {},
-      "Nvidia GPUs" : {},
-      "Ambiq Micro" : {},
-      "Cerebras" : {},
-      "Syntiant" : {},
-      "Mythic" : {},
-      "Intel Movidius" : {},
-      "ST" : {},
-      "Gyrfalcon" : {}
-    }
+  "list" : [
+      {"name" : "Wave Computing" },
+      {"name" : "Google Edge TPU" },
+      {"name" : "Nvidia GPUs" },
+      {"name" : "Ambiq Micro" },
+      {"name" : "Cerebras" },
+      {"name" : "Syntiant" },
+      {"name" : "Mythic" },
+      {"name" : "Intel Movidius" },
+      {"name" : "ST" },
+      {"name" : "Gyrfalcon" }
+    ]
   },
   "IP" : {
   "description": "These are IP companies interested in edge ML applications",
-  "list" : {
-    "ARM" : {}
-    }
+  "list" : [
+     { "name": "ARM" }
+    ]
   }
 }
