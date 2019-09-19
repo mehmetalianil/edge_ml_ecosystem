@@ -1,6 +1,6 @@
 {
   "frameworks" : {
-    "description": "These are the scaffolds of creating a ML model"
+    "description": "These are the scaffolds of creating a ML model",
     "list" : [
       "Tensorflow" : {},
       "Keras" : {},
@@ -11,7 +11,7 @@
     ]
   },
   "preprocessor" : {
-    "description": "These are used to preprocess and/or compile a formed model."
+    "description": "These are used to preprocess and/or compile a formed model.",
     "list" : [
       "STM32 CubeMX.AI" : {},
       "XLA" : {},
@@ -22,14 +22,14 @@
     ]
   },
   "communities" : {
-    "description": "These are communities of humans formed"
+    "description": "These are communities of humans formed",
     "list" : [
       "TinyML" : {},
       ""
     ]
   },
   "modules" : {
-    "description": "These are modules that have the hardware to run, communicate and meybe sense."
+    "description": "These are modules that have the hardware to run, communicate and meybe sense.",
     "list" : [
       "UP" : {},
       "Google Coral" : {},
@@ -39,7 +39,7 @@
     ]
   },
   "ASICs" : {
-  "description": "These are chips manufacturers that are tailored somewhat for ML applications"
+  "description": "These are chips manufacturers that are tailored somewhat for ML applications",
   "list" : [
     "Wave Computing" : {},
     "Google Edge TPU" : {},
@@ -53,7 +53,7 @@
     ]
   },
   "IP" : {
-  "description": "These are IP companies interested in edge ML applications"
+  "description": "These are IP companies interested in edge ML applications",
   "list" : [
     "ARM" : {},
     ]
