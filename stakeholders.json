@@ -19,7 +19,7 @@
       {"name" : "TensorRT"},
       {"name" : "DeePHi"},
       {"name" : "NCSDK"}
-    }
+    ]
   },
   "communities" : {
     "description": "These are communities of humans formed",
